@@ -2,12 +2,16 @@
 
 Hello, I’m Jon Underwood, a Sr. Technical Product Manager with a background in Software Engineering.
 
+---
+
 ### 💡 What I Do:
 
 - Product Development – From ideation to launch, driving strategy and execution.
 - Technical Architecture – Partnering with engineers to design scalable, cost-effective solutions.
 - Data & Analytics – Leveraging insights for better decision-making and visual storytelling.
 - Agile & Workflows – Optimizing processes for efficiency and collaboration.
+
+---
 
 ### 🚀 What You'll Find Here
 
@@ -17,6 +21,8 @@ My GitHub contains:
 - ✅ Product management workflows & templates
 - ✅ Agile best practices & automation scripts
 - ✅ Side projects & experiments
+
+---
 
 ### 🔧 Tech & Tools I Work With
 
