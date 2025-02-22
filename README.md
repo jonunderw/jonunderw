@@ -1,5 +1,5 @@
 📌 About Me
-Hi, I’m [Your Name], a Senior Technical Product Manager with a background in Software Engineering and a passion for building scalable, data-driven products. With 9+ years of experience in product development, I focus on bridging the gap between engineering, strategy, and design to create impactful solutions.
+Hello, I’m Jon Underwood, a Sr. Technical Product Manager with a background in Software Engineering.
 
 💡 What I Do:
 Product Development – From ideation to launch, driving strategy and execution.
