@@ -12,8 +12,8 @@ Agile & Workflows – Optimizing processes for efficiency and collaboration.
 🚀 What You'll Find Here
 
 This GitHub features a mix of:
-✅ Technical diagrams & architecture designs
-✅ Data analytics & visualization projects
+- ✅ Technical diagrams & architecture designs
+- ✅ Data analytics & visualization projects
 ✅ Product management workflows & templates
 ✅ Agile best practices & automation scripts
 ✅ Side projects & experiments
