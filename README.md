@@ -2,7 +2,7 @@
 
 ### 📌 About Me
 
-Hello, I’m Jon Underwood, a Sr. Technical Product Manager with a background in Software Engineering.
+Hello, I’m Jon Underwood, a Sr. TPM with a background in Software Engineering.
 
 ---
 
@@ -40,7 +40,7 @@ My GitHub contains:
 
 - 📧 Email: [your.email@example.com]
 - 💼 LinkedIn: www.linkedin.com/in/jon-underwood-2a303a8a
-- 🌐 Blog: (Coming Soon!)
+- 🌐 Blog: productverse.space 
 
 ---
 
